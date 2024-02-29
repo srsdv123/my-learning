@@ -1,0 +1,18 @@
+My notes for jav afull stack development course.
+
+1. Clear idea about JDK, JRE, JVM
+hello.java -> after compilation -> hello.class - > jvm -> os
+
+2. Installing IDE - intellij
+
+3. Dowloaded Git
+
+4. Know about build tool - maven 
+general project structure has:
+src
+-main
+--java
+--resources
+-test
+--java
+-POM.xml (Project Object Model) - used for configuring the dependencies and any other libraries.
